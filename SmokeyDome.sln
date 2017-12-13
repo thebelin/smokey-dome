@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmokeyDome", "SmokeyDome.csproj", "{1C0B297B-17A8-CFF0-A5B5-14989D75A67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmokeyDome.Plugins", "SmokeyDome.Plugins.csproj", "{22EC1C57-2355-17FE-10CD-909964B4F2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmokeyDome.Editor.Plugins", "SmokeyDome.Editor.Plugins.csproj", "{B9B87DC0-2008-4E1B-34DC-86ADB74809E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0B297B-17A8-CFF0-A5B5-14989D75A67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0B297B-17A8-CFF0-A5B5-14989D75A67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0B297B-17A8-CFF0-A5B5-14989D75A67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0B297B-17A8-CFF0-A5B5-14989D75A67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EC1C57-2355-17FE-10CD-909964B4F2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EC1C57-2355-17FE-10CD-909964B4F2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EC1C57-2355-17FE-10CD-909964B4F2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EC1C57-2355-17FE-10CD-909964B4F2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B87DC0-2008-4E1B-34DC-86ADB74809E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B87DC0-2008-4E1B-34DC-86ADB74809E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B87DC0-2008-4E1B-34DC-86ADB74809E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B87DC0-2008-4E1B-34DC-86ADB74809E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
